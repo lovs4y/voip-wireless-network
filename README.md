@@ -25,7 +25,7 @@ The simulated network includes:
 
 ### Topology Diagram
 
-![Network Topology](screenshots/topology.png)
+![Network Topology](photo_2026-11-11_01-23-28.jpg)
 
 ## Technologies & Concepts
 
