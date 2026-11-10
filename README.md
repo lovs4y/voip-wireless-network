@@ -51,8 +51,6 @@ Wireless clients connect through the access point, while IP phones and the analo
 
 ## Testing & Verification
 
-## Testing & Verification
-
 The network was tested in Cisco Packet Tracer to verify connectivity and VoIP functionality.
 
 ### Test Results
