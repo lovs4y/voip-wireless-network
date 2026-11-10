@@ -51,13 +51,25 @@ Wireless clients connect through the access point, while IP phones and the analo
 
 ## Testing & Verification
 
-The following checks can be performed to validate the network:
+## Testing & Verification
 
-- Verify IP addressing and network connectivity.
-- Test communication between wired and wireless devices.
-- Check wireless client association.
-- Verify IP telephone registration and voice calls.
-- Inspect device configurations and troubleshoot connectivity issues.
+The network was tested in Cisco Packet Tracer to verify connectivity and VoIP functionality.
+
+### Test Results
+
+| Test | Result |
+|---|---|
+| Network device connectivity | ✅ Passed |
+| VoIP call establishment | ✅ Passed |
+| Voice communication between configured endpoints | ✅ Passed |
+
+### Verification Summary
+
+- Verified successful network connectivity between configured devices.
+- Successfully established VoIP calls between configured telephone endpoints.
+- Confirmed that the simulated network supports voice communication.
+
+All reported tests were successfully completed in Cisco Packet Tracer.
 
 ## How to Run
 
