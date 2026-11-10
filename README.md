@@ -1,9 +1,5 @@
-# voip-wireless-network
-Cisco Packet Tracer project simulating a network infrastructure with VoIP, wired and wireless connectivity, and network services.
-
 # VoIP & Wireless Network Infrastructure
-
-**Cisco Packet Tracer | Network Engineering Lab**
+Cisco Packet Tracer project simulating a network infrastructure with VoIP, wired and wireless connectivity, and network services.
 
 ## Project Overview
 
@@ -51,8 +47,6 @@ The simulated network includes:
 
 The network topology was created using Cisco Packet Tracer.
 
-A Cisco 2960 switch provides central connectivity between the router, server, wireless access point, and VoIP devices.
-
 Wireless clients connect through the access point, while IP phones and the analog VoIP adapter are integrated into the wired infrastructure.
 
 ## Testing & Verification
@@ -64,8 +58,6 @@ The following checks can be performed to validate the network:
 - Check wireless client association.
 - Verify IP telephone registration and voice calls.
 - Inspect device configurations and troubleshoot connectivity issues.
-
-*Note: Testing results should be documented after verification in Packet Tracer.*
 
 ## How to Run
 
@@ -89,4 +81,4 @@ The following checks can be performed to validate the network:
 
 ## Author
 
-Computer Engineering Graduate | Aspiring Network Engineer
+Vladyslava Prazhmovska | Computer Engineering Graduate
